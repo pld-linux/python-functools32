@@ -8,7 +8,7 @@ Name:		python-functools32
 %define	src_ver	3.2.3-2
 Version:	%(echo %{src_ver} | tr - .)
 %define	egg_ver	%(echo %{src_ver} | tr - _)
-Release:	1
+Release:	2
 License:	PSF
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/functools32/
